@@ -31,7 +31,7 @@ I researched and developed this (low effort) MSX service that serves purely for 
 7. Navigate to Settings → Start Parameter → Setup
    ![MSX Start Parameters](https://raw.githubusercontent.com/bartche/msx/main/imgs/startparam.jpeg)
 9. Set the security lock (for HTTPS mode) and enter:
-   ```bartche.github.io```
+   ```pixileaf.github.io```
 10. Save it and you are done!
 
 ## Disclaimer
@@ -42,5 +42,5 @@ Stremio TV Web is an unmaintained outdated version of Stremio and you might enco
 ## Reference
 
 - [Stremio](https://www.stremio.com/)
-- [Stremio TV Web](https://tv.strem.io/)
+- [Stremio Web](https://app.strem.io/)
 - [Media Station X](https://msx.benzac.de/info/)
